@@ -21,8 +21,9 @@ export const ContainerHero = styled.div`
     height: 100%;
     background: linear-gradient(
       to bottom,
-      rgba(0, 0, 0, 1.7),
-      rgba(0, 0, 0, 0)
+      rgba(255, 255, 255, 1.3),
+      /* Тусклая белая тень с прозрачностью */ rgba(255, 255, 255, 0)
+        /* Плавный переход к прозрачности */
     );
     z-index: 1;
   }
@@ -44,7 +45,7 @@ export const MainHeroText = styled.h1`
   margin: 0;
   padding-top: 270px;
   margin-bottom: 30px;
-  color: #ffffff;
+  color: #000000;
 `;
 
 export const HeroText = styled.p`
@@ -55,7 +56,7 @@ export const HeroText = styled.p`
   line-height: 35px;
   text-align: center;
   margin: 0;
-  color: #ffffff;
+  color: #000000;
 `;
 
 export const ImgBlock = styled.div`

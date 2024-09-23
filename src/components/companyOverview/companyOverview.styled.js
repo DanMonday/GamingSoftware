@@ -24,7 +24,7 @@ export const SymbolItem = styled.p`
   font-size: 27px;
   line-height: 35px;
 
-  color: #ffffff;
+  color: #000000;
   transform: rotate(45deg);
 
   position: absolute;
@@ -43,7 +43,7 @@ export const TextInformationItem = styled.p`
 
   width: 225px;
 
-  color: #ffffff;
+  color: #000000;
 `;
 
 export const TextInformation = styled.p`
@@ -55,7 +55,7 @@ export const TextInformation = styled.p`
 
   width: 980px;
 
-  color: #ffffff;
+  color: #000000;
 `;
 
 export const TextBlock = styled.div`
@@ -95,7 +95,7 @@ export const Text = styled.p`
 
   margin: 0;
 
-  color: #ffffff;
+  color: #000000;
 `;
 
 export const MainInfoText = styled.p`

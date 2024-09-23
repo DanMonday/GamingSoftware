@@ -26,7 +26,8 @@ export const CompanyOverview = () => {
           We are <TextSpan>GAMING SOFTWARE</TextSpan> a fast growing UK gambling
           company. We are a regular participant in international events in
           Europe and America, our brands are respected and popular among
-          customers. We offer a dynamic, innovative and friendly work
+          customers.<br/> 
+          We offer a dynamic, innovative and friendly work
           environment in a stable and profitable company.
           <TextSpan> Connect to your story!</TextSpan>
           <TextBlock>

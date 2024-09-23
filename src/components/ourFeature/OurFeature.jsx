@@ -6,6 +6,7 @@ import {
   FeatureList,
   FeatureMainText,
   OurFeatureBlock,
+  ShadowBlock,
 } from "./OurFeature.styled";
 import imgDia from "../../images/Diamond.png";
 import imgLig from "../../images/Lightning.png";
@@ -31,9 +32,11 @@ export const OurFeature = () => {
           </FeatureList>
         </FeatureBlock>
         <FeatureImg src={imgDia} />
+        <ShadowBlock side={true} />
       </OurFeatureBlock>
       <OurFeatureBlock>
         <FeatureImg src={imgLig} />
+        <ShadowBlock side={false} />
         <FeatureBlock indent={false}>
           <FeatureList side={false}>
             <FeatureItem>
