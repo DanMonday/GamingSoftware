@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/GamingSoftware/static/css/main.51623371.css",
-    "main.js": "/GamingSoftware/static/js/main.ef9bd297.js",
+    "main.css": "/GamingSoftware/static/css/main.74eb3499.css",
+    "main.js": "/GamingSoftware/static/js/main.189a656d.js",
     "static/media/bgImg.png": "/GamingSoftware/static/media/bgImg.d6cea822b8dab7ca6a3c.png",
-    "static/media/Lightning.png": "/GamingSoftware/static/media/Lightning.49f1ee1f0fc38dd6a959.png",
     "static/media/Diamond.png": "/GamingSoftware/static/media/Diamond.4f8c6b6ce2cf1b1a72c0.png",
-    "static/media/Vector.png": "/GamingSoftware/static/media/Vector.7f9e9886b190f8edc826.png",
+    "static/media/Lightning.png": "/GamingSoftware/static/media/Lightning.70f8e170b7632e5043aa.png",
+    "static/media/Vector.png": "/GamingSoftware/static/media/Vector.1cc7cf5cb1fd0de986ed.png",
     "index.html": "/GamingSoftware/index.html",
-    "main.51623371.css.map": "/GamingSoftware/static/css/main.51623371.css.map",
-    "main.ef9bd297.js.map": "/GamingSoftware/static/js/main.ef9bd297.js.map"
+    "main.74eb3499.css.map": "/GamingSoftware/static/css/main.74eb3499.css.map",
+    "main.189a656d.js.map": "/GamingSoftware/static/js/main.189a656d.js.map"
   },
   "entrypoints": [
-    "static/css/main.51623371.css",
-    "static/js/main.ef9bd297.js"
+    "static/css/main.74eb3499.css",
+    "static/js/main.189a656d.js"
   ]
 }
